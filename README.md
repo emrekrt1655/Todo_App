@@ -4,6 +4,17 @@
 
 Project aims to create TODO Application with React Native.
 
+https://github.com/emrekrt1655/Todo_App/blob/main/Screenshot_1603198384.png
+https://github.com/emrekrt1655/Todo_App/blob/main/Screenshot_1603198405.png
+https://github.com/emrekrt1655/Todo_App/blob/main/Screenshot_1603198413.png
+https://github.com/emrekrt1655/Todo_App/blob/main/Screenshot_1603198417.png
+
+https://github.com/emrekrt1655/Todo_App/blob/main/screenvideo.mp4
+
+
+
+
+
 ## Problem Statement
 
 - Your company has recently started on a project that aims to create a TODO Application for personal usage. So you and your colleagues have started to work on the project.
